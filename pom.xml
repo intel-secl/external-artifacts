@@ -10,7 +10,6 @@
     
     <modules>
         <module>kmip4j</module>
-        <module>monit</module>
         <module>tpm-tools</module>
         <module>jre-windows</module>
     </modules>
