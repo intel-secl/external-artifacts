@@ -9,7 +9,6 @@
     <name>Mt Wilson External Maven Artifacts</name>
     
     <modules>
-        <module>kmip4j</module>
         <module>jre-windows</module>
     </modules>
     
